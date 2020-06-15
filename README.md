@@ -8,6 +8,8 @@
   <a href="#tecnologies-rocket">Tecnologies</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   <a href="#how-to-contribute-">How to Contribute</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   <a href="#license-scroll">License</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#execute-on-your-computer-computer">Execute on your computer</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+
 </p>
 
 <p align="center">
@@ -29,10 +31,21 @@ Casa Criativa brings play ideas, games, movies, courses, tips and everything you
 
 ## Tecnologies :rocket:
 
+#### Back-End
+- <a href="https://nodejs.org/pt-br/docs/">Node.js</a>
+- <a href="https://www.sqlite.org/docs.html">SQLite3</a>
+
+#### Front-End
 - <a href="https://devdocs.io/html/">HTML</a>
 - <a href="https://devdocs.io/css/">CSS</a>
 - <a href="https://devdocs.io/javascript/">Javascript</a>
 
+## Execute on your computer :computer:
+
+<p>Clone this repository and inside the folder created run the command ``npm install``, to install the dependencies;
+  <br />
+afterwards, do ``npm run dev``.</p>
+<p>Then access the application at <strong> localhost:3000 </strong></p>
 
 ## How to Contribute 🤔
 
