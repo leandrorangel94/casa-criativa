@@ -7,8 +7,8 @@
   <a href="#about-memo">About</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   <a href="#tecnologies-rocket">Tecnologies</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   <a href="#how-to-contribute-">How to Contribute</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#execute-on-your-computer-computer">Execute on your computer</a>&nbsp;&nbsp;&nbsp;
   <a href="#license-scroll">License</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  <a href="#execute-on-your-computer-computer">Execute on your computer</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 
 </p>
 
@@ -20,7 +20,7 @@
 ## Apresentation of Project :sparkles:
 
 <p align="center">
-<image src="https://user-images.githubusercontent.com/39461509/84525780-990acf00-acb2-11ea-91ea-78f4f6b89d47.png" />
+<image src="https://user-images.githubusercontent.com/39461509/84611489-6ae4e500-ae94-11ea-8f3f-4f6bd5491c63.png" />
 </p>
 
 ---
@@ -42,10 +42,9 @@ Casa Criativa brings play ideas, games, movies, courses, tips and everything you
 
 ## Execute on your computer :computer:
 
-<p>Clone this repository and inside the folder created run the command ``npm install``, to install the dependencies;
-  <br />
-afterwards, do ``npm run dev``.</p>
-<p>Then access the application at <strong> localhost:3000 </strong></p>
+- Clone this repository and inside the folder run the command `npm install`, to install the dependencies;
+- After that, do; `npm run dev`;
+- Then access the application at <strong> `http://localhost:3000` </strong>
 
 ## How to Contribute 🤔
 
