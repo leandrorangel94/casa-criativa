@@ -7,7 +7,7 @@
   <a href="#about-memo">About</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   <a href="#tecnologies-rocket">Tecnologies</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   <a href="#how-to-contribute-">How to Contribute</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  <a href="#execute-on-your-computer-computer">Execute on your computer</a>&nbsp;&nbsp;&nbsp;
+  <a href="#execute-on-your-computer-computer">Execute on your computer</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   <a href="#license-scroll">License</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 
 </p>
@@ -40,10 +40,10 @@ Casa Criativa brings play ideas, games, movies, courses, tips and everything you
 - <a href="https://devdocs.io/css/">CSS</a>
 - <a href="https://devdocs.io/javascript/">Javascript</a>
 
-## Execute on your computer :computer:
+## Execute on your PC :computer:
 
 - Clone this repository and inside the folder run the command `npm install`, to install the dependencies;
-- After that, do; `npm run dev`;
+- After that, do `npm run dev`;
 - Then access the application at <strong> `http://localhost:3000` </strong>
 
 ## How to Contribute 🤔
